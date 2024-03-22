@@ -1,3 +1,5 @@
+![giphy](https://github.com/Sanka-YT/.github/assets/123918506/12fded83-e6d4-42fc-8bc7-1e18a90c0a3a)
+
 <h1 align="center">
   <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" alt="wave" width="35" height="35">
   Hey there, Welcome to Sanka-YT! 
