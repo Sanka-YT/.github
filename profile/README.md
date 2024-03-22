@@ -1,5 +1,7 @@
 <div align="center">
-![](./giphy.gif)
+  
+  ![](./giphy.gif)
+
 </div>
 
 <h1 align="center">
